@@ -6,7 +6,7 @@ A Snake Game in JavaScript involves controlling a snake that moves around the sc
   
    <h1>Preview</h1>   
    
-   <img src="preview.png" />
+   <img src="snake.png" />
 
 [Live](https://alagar2604.github.io/Snake-game-use-js/) 
      
